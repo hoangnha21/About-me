@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hoangnhaUIC
+- 👋 Hi, I’m @hoangnha
 - 👀 I’m interested in working on data analytics projects
 - 🌱 I’m currently majoring in Business Analytics
 - 💞️ I’m looking to collaborate on projects 
