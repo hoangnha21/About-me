@@ -7,15 +7,6 @@
 Contact via nhoang7@uic.edu or hoangnhanguyen218@gmail.com.
 Connect me on Linkedin https://www.linkedin.com/in/hoangnha/
 
-Dedicated, motivated, solution-oriented, and teamwork-focused. 
-
--Proficiency in query building (Python)
--Perform feature engineering and explanatory data analysis (EDA) using statistical tools such as R and SAS.
--Experience with building classification and machine learning models using Python, train-test split technique, and statistical methods (t-test, Chi-squared, ANOVA, Regression).
--Specialize in building user-focused visualizations using tools like Tableau, PowerBI, Excel & PowerPoint.
--Comfortable in explaining a technical topic to technical and non-technical audiences.
-<!---
-
 
 hoangnha218/hoangnha218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
