@@ -9,11 +9,11 @@ Connect me on Linkedin https://www.linkedin.com/in/hoangnha/
 
 Dedicated, motivated, solution-oriented, and teamwork-focused. 
 
-*Proficiency in query building (Python)
-*Perform feature engineering and explanatory data analysis (EDA) using statistical tools such as R and SAS.
-*Experience with building classification and machine learning models using Python, train-test split technique, and statistical methods (t-test, Chi-squared, ANOVA, Regression).
-*Experience in building user-focused visualizations using tools like Tableau, PowerBI, Excel & PowerPoint.
-*Comfortable in explaining a technical topic to technical and non-technical audiences.
+Proficiency in query building (Python)
+Perform feature engineering and explanatory data analysis (EDA) using statistical tools such as R and SAS.
+Experience with building classification and machine learning models using Python, train-test split technique, and statistical methods (t-test, Chi-squared, ANOVA, Regression).
+Specialize in building user-focused visualizations using tools like Tableau, PowerBI, Excel & PowerPoint.
+Comfortable in explaining a technical topic to technical and non-technical audiences.
 <!---
 
 
